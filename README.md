@@ -46,7 +46,7 @@
 
 ## 📂 Resume & Portfolio
 
-📄 **Resume:** [View Resume](https://drive.google.com/file/d/1-eEmk7kM0sN9SlNZWHfUvGdXptx8f6C4/view)  
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1lGZSB12HsrjWVyATasAV-vGqu_L-xWm3/view?usp=sharing)  
 🌐 **GitHub:** [Sahilch1](https://github.com/Sahilch1)  
 🔗 **LinkedIn:** [sahil9480](https://www.linkedin.com/in/sahil9480/)  
 
