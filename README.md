@@ -1,56 +1,57 @@
 <h1 align="center">👋 Hi, I'm Sahil Kumar</h1>
 <p align="center">
-🎓 B.Tech in Electronics & Communication Engineering (IoT) | IIIT Nagpur  
+🎓 B.Tech in Electronics & Communication Engineering (IoT), IIIT Nagpur  
 🏆 Winner - Smart India Hackathon 2024  
-🔧 Embedded Systems | 💻 VLSI Design | 📊 Data Analysis | 🤖 AI-Driven Innovation  
+🤖 Generative AI | 📊 Data Analytics | 💻 Python & ML | ⚡ IoT Systems  
 </p>
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Project Highlights
 
-- 🧼 <strong>Washing Machine Controller</strong> – Designed using VHDL on DE10 FPGA board & Quartus  
-- 📈 <strong>Smarter Retail: Uncovering E-Commerce Insights with Pandas & Plotly</strong> – Built insights using Python (Pandas, Plotly), Excel & Colab  
-- 💧 <strong>JalTarang</strong> – AI & IoT based Mobile App for Real-Time Water Quality Monitoring  
-- 🔌 <strong>Low-Power CMOS Schmitt Trigger</strong> – Modeled using Microwind & DSCH tools  
+- 🍳 **Conversational Kitchen Assistant** – Built a full-stack AI chatbot using **Streamlit + RAG pipeline** with FAISS & HuggingFace embeddings; integrated Ollama’s Phi model for **API-free recipe generation**.  
+- 📈 **Smarter Retail Dashboard** – Analyzed **112K+ e-commerce records** with Pandas & SQL, revealing **$1.4M+ revenue insights**; built a **Plotly Dash dashboard** with 5 visualizations.  
+- 🔐 **Fraud Detection Model** – Designed a **logistic regression model** on **6.3M+ transactions**, achieving **0.9911 ROC AUC** and **95.73% recall** in detecting fraudulent activity.  
+- 💧 **JalTarang (SIH 2024 Winner)** – AI/ML-powered **real-time water quality monitoring app** with GPS alerts; processed 15+ parameters and built **data pipelines with Python & SQL** for hazard warnings.  
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-🖥️ <strong>Languages:</strong> Python | C++ | MATLAB | VHDL  
-📡 <strong>Embedded & Boards:</strong> ESP32 | Arduino | DE10-Lite FPGA | Keil | Quartus Prime  
-📊 <strong>Data Tools:</strong> Numpy | Pandas | Matplotlib | Scikit Learn | Excel | MySQL | Google Colab | Power BI  
-📐 <strong>EDA & Simulation:</strong> Microwind | DSCH | MULTISIM | WinSpice | AutoCAD | CST Studio | VirtualNano Lab
+🖥️ **Languages:** Python | C++ | SQL  
+🤖 **AI & ML:** LLMs, RAG, PyTorch, TensorFlow, LangChain, HuggingFace, Scikit-learn, NLTK  
+📊 **Data & Visualization:** Pandas | NumPy | Plotly | Seaborn | Matplotlib | Streamlit | Power BI  
+🗄️ **Databases & Tools:** FAISS | Pinecone | SQLite3 | MySQL | Google Colab | VS Code | Anaconda  
+⚙️ **Other Skills:** Agile | Team Collaboration | Project Management  
 
 ---
 
 ## 🎯 Interests
 
-- ✅ Data Science & Analytics
-- ✅ Embedded & IoT Applications  
-- ✅ RTL Design & FPGA-based Systems  
-- ✅ CMOS Low-Power Design  
-  
+- ✅ Generative AI & Retrieval-Augmented Generation  
+- ✅ Data Science & Visualization  
+- ✅ IoT & Embedded Systems  
+- ✅ Predictive Modeling & Fraud Analytics  
+
 ---
 
 ## 💬 Let’s Talk About
 
-- 🧠 VHDL & Digital Logic Design  
-- 📊 Real-Time Data Analysis  
-- 🛠️ Embedded Firmware Development  
-- ⚡ Low-Power Circuit Architectures    
+- 🤖 Building RAG Pipelines with LangChain  
+- 📊 Data-Driven Insights & Dashboards  
+- 🛠️ AI-Powered IoT Applications  
+- ⚡ High-Performance Predictive Models  
 
 ---
 
 ## 📂 Resume & Portfolio
 
-📄 <strong>Resume:</strong> [View Resume](https://your-link.com)  
-🌐 <strong>GitHub:</strong> Explore my repositories & contributions!  
-🔗 <strong>LinkedIn:</strong> [sahil9480](https://linkedin.com/in/sahil9480)
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1-eEmk7kM0sN9SlNZWHfUvGdXptx8f6C4/view)  
+🌐 **GitHub:** [Sahilch1](https://github.com/Sahilch1)  
+🔗 **LinkedIn:** [sahil9480](https://www.linkedin.com/in/sahil9480/)  
 
 ---
 
 <p align="center">
-✨ Passionate about building impactful tech that bridges hardware and intelligence. Let's connect! 🤝
+✨ Passionate about building AI-driven solutions that bridge data, intelligence, and real-world impact. Let’s connect! 🤝
 </p>
